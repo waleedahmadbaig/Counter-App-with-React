@@ -1,2 +1,2 @@
-# Tumor-Insight
-Tumor Insight uses advanced MRI scan analysis to detect, prognose, and segment tumors, identifying type and boundaries. It aids doctors in early diagnosis and treatment planning, enhancing accuracy and patient outcomes. The project leverages machine learning for precise and actionable medical insights.
+# Counter App
+This React app allows users to increment and reset counters. Each counter starts at zero, and the background color changes upon incrementing or resetting the count. Users can delete individual counters, and the app dynamically manages multiple counters using state. The App component holds an array of counters, while the Counter component manages each counter's functionality (increment, reset, and delete).
